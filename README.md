@@ -1,6 +1,6 @@
 # 🔗Link
 - 블로그 :  <https://jabtem.tistory.com>
-- 포트폴리오 정리 유튜브 : <https://www.youtube.com/channel/UCiVSBCxJxwljONWLD2kWQmw>
+- 포트폴리오및 공부자료정리 유튜브 : <https://www.youtube.com/channel/UCiVSBCxJxwljONWLD2kWQmw>
 
 # ✏️Study
 <img src = "https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/><img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/><img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/><img src="https://img.shields.io/badge/Unity-black?&style=flat&logo=unity&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/><img src="https://img.shields.io/badge/Unreal-black?&style=flat&logo=unrealengine&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
