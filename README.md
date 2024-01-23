@@ -1,5 +1,5 @@
 # 🔗Link
-- 블로그 :  <https://jabtem.tistory.com>
+- 공부정리 블로그 :  <https://jabtem.tistory.com>
 - 포트폴리오및 공부자료정리 유튜브 : <https://www.youtube.com/channel/UCiVSBCxJxwljONWLD2kWQmw>
 
 # ✏️Study
